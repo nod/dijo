@@ -22,13 +22,13 @@ Throughout the day, you do one of four actions to your tasks.
 
 ![dijo actions](https://github.com/nod/dijo/raw/master/media/actions.png)
 
-- `done` - complete a task by coloring in a task bubbles
-- `wait` - when a task is blocked by others write a little `w` in the bubble and
-  possibly a note indicating why you're waiting
-- `nope` - not ever going to do a task?  note it by drawing a line through the
-  whole thing
+- `done` - complete a task by coloring in the task bubble
 - `push` - at the end of the day any open or waiting task gets pushed to the
   next day.  Copy those to your next page.
+- `nope` - never going to do a task? nope it by drawing a line through the
+  whole thing and moving on with your life
+- `wait` - when a task is blocked (for whatever reason) write a little `w` in
+  the bubble and maybe a note indicating why you're waiting
 
 
 ## timebox
