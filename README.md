@@ -51,11 +51,11 @@ that happened that day, or mark down other items that happened of interest.
 
 # how to load into goodnotes
 
-Easiest way is to download a release zip file and open it into your icloud drive
-folder.
+Easiest way is to [download a release zip file](https://github.com/nod/dijo/archive/initial.zip) and open it into your icloud drive folder.
 
 Then in Goodnotes, go to `Options - Template Library - +`.
 
 From there Go to `Custon - Edit` and then select the pdf files to add from your
-iCloud Drive.
+iCloud Drive as new templates.  Choose a page, change the template to your new
+shiny dijo page and get productive.
 
