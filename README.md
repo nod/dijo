@@ -7,7 +7,7 @@ Pencil.
 
 These may work in other formats for you.
 
-![dijo awful handwriting example](https://github.com/nod/dijo/raw/master/media/screencap.png){:width="50%"}
+![dijo awful handwriting example](https://github.com/nod/dijo/raw/master/media/screencap.jpeg)
 
 
 # how to use it
