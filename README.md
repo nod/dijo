@@ -7,7 +7,7 @@ Pencil.
 
 These may work in other formats for you.
 
-![dijo awful handwriting example](https://github.com/nod/dijo/raw/master/media/screencap.png)
+![dijo awful handwriting example](https://github.com/nod/dijo/raw/master/media/screencap.png){:width="50%"}
 
 
 # how to use it
@@ -15,24 +15,33 @@ These may work in other formats for you.
 
 ## todos
 
+Write tasks in the todo box.  Different colors or highlighted may work to
+indicate priority.
+
 Throughout the day, you do one of four actions to your tasks.
 
 ![dijo actions](https://github.com/nod/dijo/raw/master/media/actions.png)
 
-- `done` a task by coloring in a task bubbles
-- `wait` on a task when blocked by others with a little `w` in the bubble
-- `nope` a task by just drawing a line through the whole thing
-- `push` a task at the end of the day unless it's done or noped.  Waiting stuff
-  gets pushed also
+- `done` - complete a task by coloring in a task bubbles
+- `wait` - when a task is blocked by others write a little `w` in the bubble and
+  possibly a note indicating why you're waiting
+- `nope` - not ever going to do a task?  note it by drawing a line through the
+  whole thing
+- `push` - at the end of the day any open or waiting task gets pushed to the
+  next day.  Copy those to your next page.
 
 
 ## timebox
 
-Draw a bracket to show that time is occupied.  Some find it
-helpful to write the starting time to the left.  Then mark out how that time was
-used. It also may do to block out time in a diff color that was unplanned or
-"stolen" as a way of indicating a divergence from your planned day.  It's not a
-negative thing, just an answer to "Why didn't I finish X?  Oh yeah"
+Draw a bracket to show a time block is occupied.
+
+Some find it helpful to write the starting time to the left.
+
+In that block, mark how that time was used.
+
+For unplanned time, mark a time block in a diff color.  This indicates the time
+was a divergence from your planned day.  It's not a negative thing, just an
+answer to "Why didn't I finish X?  Oh yeah"
 
 ## notes
 
