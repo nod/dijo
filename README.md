@@ -55,7 +55,7 @@ Easiest way is to [download a release zip file](https://github.com/nod/dijo/arch
 
 Then in Goodnotes, go to `Options - Template Library - +`.
 
-From there Go to `Custon - Edit` and then select the pdf files to add from your
+From there Go to `Custom - Edit` and then select the pdf files to add from your
 iCloud Drive as new templates.  Choose a page, change the template to your new
 shiny dijo page and get productive.
 
